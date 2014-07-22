@@ -101,7 +101,7 @@ Printed in China
 - [Part Three: The Lesson Restated](#page-173)
 	- [Chapter 24: The Lesson Restated](#page-175)
 
-[Index](#page-185)
+- [Index](#page-185)
 
 ###Page vii
 
