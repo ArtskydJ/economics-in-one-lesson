@@ -23,10 +23,10 @@ Printed in China
 
 #Contents
 
-- [#Introduction to the 2007 Edition of Economics in One Lesson](#introduction-to-the-2007-edition-of-economics-in-one-lesson)
-- [Preface to the First Edition by Henry Hazlitt](#preface-to-the-first-edition-by-henry-hazlitt)
+- [Introduction to the 2007 Edition of Economics in One Lesson](#introduction-to-the-2007-edition-of-economics-in-one-lesson)
+- [Preface to the First Edition](#preface-to-the-first-edition)
 - [Part One: The Lesson](#part-one-the-lesson)
-	- [Chapter 1: The Lesson](#chapter-1-the-lesson)
+	- [Chapter 1: The Lesson](#chapter-1)
 
 - [Part Two: The Lesson Applied](#part-two-the-lesson-applied)
 	- [Chapter 2: The Broken Window](#chapter-2)
@@ -52,10 +52,10 @@ Printed in China
 	- [Chapter 22: The Mirage of Inflation](#chapter-22)
 	- [Chapter 23: The Assault on Saving](#chapter-23)
 
-- [Part Three: The Lesson Restated](#page-173)
-	- [Chapter 24: The Lesson Restated](#chapter-24)
+- [Part Three: The Lesson Restated](#part-three-the-lesson-restated)
+	- [Chapter 24: The Lesson Restated](#chapter-24-the-lesson-restated)
 
-- [Index](#page-185)
+- [Index](#index)
 
 #Introduction to the 2007 Edition of Economics in One Lesson
 
